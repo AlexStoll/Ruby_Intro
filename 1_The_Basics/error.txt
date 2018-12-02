@@ -1,0 +1,3 @@
+The error says “syntax error, unexpected ')', expecting ‘}’”
+
+This means that a ) was used where a } should have been, instead. This could be in something like a hash where the table starts and ends with {}’s.
